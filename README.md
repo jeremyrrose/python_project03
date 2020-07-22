@@ -33,6 +33,8 @@ This project will present a visualization of the relationship between county-to-
 
 [County-by-county employment data (U.S. Bureau of Labor Statistics)](https://www.bls.gov/lau/tables.htm)
 
-[County-by-county population and economic data (US Dept. of Agriculture Economic Research Service)](https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/)
+[County-by-county population change data (U.S. Census Bureau)](https://www.census.gov/data/datasets/time-series/demo/popest/2010s-counties-total.html#par_textimage_70769902)
+
+[County-by-county economic data (US Dept. of Agriculture Economic Research Service)](https://www.ers.usda.gov/data-products/county-level-data-sets/download-data/)
 
 [Accidental drug overdose deaths (State of Connecticut)](https://catalog.data.gov/dataset/accidental-drug-related-deaths-january-2012-sept-2015)
