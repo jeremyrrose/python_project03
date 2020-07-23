@@ -13,20 +13,20 @@ This project will present a visualization of the relationship between county-to-
 ## Project Planning
 |  Day | Deliverable | Status
 |---|---| ---|
-|Thursday, July 16| Project Description, Timeline | Late
-|Tuesday, July 21| Read and compare data from all datasets | Incomplete
+|Thursday, July 16| Project Description, Timeline | Complete (Late)
+|Tuesday, July 21| Read and compare data from all datasets | Complete (Late)
 |Wednesday, July 22| Data Visualizations | Incomplete
 |Wednesday, July 22| Commentary | Incomplete
 
 ## MVP
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Initial integration of datasets | H | 1.5hr | -hr | -hr|
-| Calculation of normalized county-by-county economic standards, death rates | H | 2H | -hr | -hr|
-| Exploration to determine useful visualizations | H | 2.5H | -hr | -hr|
-| Create visualizations | H | 2.5H | -hr | -hr |
+| Initial integration of datasets | H | 1.5hr | 4.5hr | -hr|
+| Calculation of normalized county-by-county economic standards, death rates | H | 2H | 1.5hr | -hr|
+| Exploration to determine useful visualizations | H | 2.5H | 2.5hr | -hr|
+| Create visualizations | H | 2.5H | 1hr | -hr |
 | Summarize conclusions | L | .5H | -hr | -hr |
-| Total | H | 9hrs| -hr | -hr |
+| Total | H | 9hr| 8.5hr | -hr |
 
 ## Datasets
 [County-by-county population, income, and poverty data (U.S. Census Bureau)](https://www.census.gov/programs-surveys/saipe/data/datasets.html)
