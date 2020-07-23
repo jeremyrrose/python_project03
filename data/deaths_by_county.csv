@@ -1,0 +1,57 @@
+,Jurisdiction,Year,ResidentDeaths,DeathsInCounty
+0,Fairfield,2012,50,51
+1,Fairfield,2013,78,94
+2,Fairfield,2014,0,62
+3,Fairfield,2015,103,102
+4,Fairfield,2016,158,0
+5,Fairfield,2017,144,163
+6,Fairfield,2018,147,151
+7,Hartford,2012,89,101
+8,Hartford,2013,114,132
+9,Hartford,2014,0,118
+10,Hartford,2015,182,210
+11,Hartford,2016,255,0
+12,Hartford,2017,283,335
+13,Hartford,2018,282,337
+14,New Haven,2012,85,99
+15,New Haven,2013,126,134
+16,New Haven,2014,0,112
+17,New Haven,2015,186,210
+18,New Haven,2016,230,0
+19,New Haven,2017,265,285
+20,New Haven,2018,235,267
+21,New London,2012,42,41
+22,New London,2013,50,56
+23,New London,2014,0,40
+24,New London,2015,59,61
+25,New London,2016,85,0
+26,New London,2017,82,80
+27,New London,2018,88,90
+28,Litchfield,2012,18,17
+29,Litchfield,2013,35,35
+30,Litchfield,2014,0,26
+31,Litchfield,2015,51,46
+32,Litchfield,2016,37,0
+33,Litchfield,2017,53,48
+34,Litchfield,2018,68,65
+35,Middlesex,2012,20,18
+36,Middlesex,2013,20,17
+37,Middlesex,2014,0,18
+38,Middlesex,2015,38,39
+39,Middlesex,2016,35,0
+40,Middlesex,2017,42,45
+41,Middlesex,2018,51,44
+42,Windham,2012,12,14
+43,Windham,2013,11,9
+44,Windham,2014,0,14
+45,Windham,2015,26,31
+46,Windham,2016,27,0
+47,Windham,2017,40,41
+48,Windham,2018,36,33
+49,Tolland,2012,11,11
+50,Tolland,2013,9,10
+51,Tolland,2014,0,18
+52,Tolland,2015,25,20
+53,Tolland,2016,30,0
+54,Tolland,2017,29,28
+55,Tolland,2018,32,26
