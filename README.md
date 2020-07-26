@@ -1,6 +1,10 @@
 # Accidental overdose deaths and economic indicators
 
-This project will present a visualization of the relationship between county-to-county economic indicators in Connecticut and the per capita incidence of accidental overdose deaths between 2012 and 2018. (If a lack of relationship is found, this will be presented.)
+This project will present a visualization of the relationship between county-to-county economic indicators in Connecticut and the per capita incidence of accidental overdose deaths between 2012 and 2018.
+
+Conclusions can be found in [Project Report.ipynb](Project%Report.ipynb).
+
+In summary: Many numbers were moved around, and no conclusions were drawn.
 
 *NOTE:* This project is focused on Python programming, not public policy; I am not trained in statistical analysis aside from being able to code it, and no definitive conclusions should be drawn from this.
 
@@ -23,10 +27,10 @@ This project will present a visualization of the relationship between county-to-
 | --- | :---: |  :---: | :---: | :---: |
 | Initial integration of datasets | H | 1.5hr | 4.5hr | -hr|
 | Calculation of normalized county-by-county economic standards, death rates | H | 2H | 1.5hr | -hr|
-| Exploration to determine useful visualizations | H | 2.5H | 2.5hr | -hr|
-| Create visualizations | H | 2.5H | 1hr | -hr |
-| Summarize conclusions | L | .5H | -hr | -hr |
-| Total | H | 9hr| 8.5hr | -hr |
+| Exploration to determine useful visualizations | H | 2.5H | 4.5hr | -hr|
+| Create visualizations | H | 2.5H | 2.5hr | -hr |
+| Summarize conclusions | L | .5H | 1hr | -hr |
+| Total | H | 9hr| 13.5hr | -hr |
 
 ## Datasets
 [County-by-county population, income, and poverty data (U.S. Census Bureau)](https://www.census.gov/programs-surveys/saipe/data/datasets.html)
