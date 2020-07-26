@@ -2,7 +2,7 @@
 
 This project will present a visualization of the relationship between county-to-county economic indicators in Connecticut and the per capita incidence of accidental overdose deaths between 2012 and 2018.
 
-Conclusions can be found in [ProjectReport.ipynb](ProjectReport.ipynb).
+Conclusions can be found in [Project Report.ipynb](Project%Report.ipynb).
 
 In summary: Many numbers were moved around, and no conclusions were drawn.
 
